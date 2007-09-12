@@ -1,0 +1,2 @@
+db_module=mepeer.model
+history_dir=$base/mepeer/sqlobject-history
